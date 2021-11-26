@@ -22,10 +22,12 @@ Common questions that any content owner needs to answer such as:
 
 ![photo](https://github.com/sumampouw/project_youtube/blob/main/Images/images1.jpeg)
 
-## Dataset
+## Dataset & file
 
-In this project, we will use the created data [**DE_youtube_trending_data.csv**] 
-[Here](https://github.com/sumampouw/project_youtube/blob/main/Data/DE_youtube_trending_data.csv)
+In this project, we will use the created data [**DE_youtube_trending_data.csv**]
+[Here](https://drive.google.com/file/d/1eT98iQBn8ve_8i1Jn7CjHsjdAnipsgmW/view?usp=sharing)
+And the project file [**Project_YouTube**]
+[Here](https://github.com/sumampouw/project_youtube/blob/main/YouTube.ipynb)
 
 This data set includes:
 
@@ -66,7 +68,7 @@ This data set includes:
 
 ## Result & conclusion
 
-![photo](https://github.com/sumampouw/project_youtube/blob/main/Images/images1.jpeg)
+![photo](https://github.com/sumampouw/project_youtube/blob/main/Images/images3.jpeg)
 
 The analysis has successfully answered the common questions and has provided an insight into the data; we can go deeper into our research and create more hypotheses to answer more questions. In the end, information is everything; hence, you can get that Youtube Money by following several steps of instructions on your Youtube Journey, and you'll probably be set for life. :wink:
 - Create videos in the Science/Technology category
